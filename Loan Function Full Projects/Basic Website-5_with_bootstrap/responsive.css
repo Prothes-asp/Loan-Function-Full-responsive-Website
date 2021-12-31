@@ -1,0 +1,71 @@
+@media (max-width: 1199px) {
+	.services-tab ul.services-tab-item li a.active::after {
+    bottom: 0px;
+    }
+    .about-section .about-image-txt {
+    right: -46px;
+    bottom: -25px;
+    }
+}
+@media (max-width: 991px) {
+   .about-section .about-image-txt {
+    right: 105px;
+    }
+}
+@media (max-width: 767px) {
+	.about-section .about-image-txt {
+    right: -28px;
+    bottom: -22px;
+    }
+	
+}
+@media(max-width: 768px){
+	.call-to-action-phn a {
+    font-size: 30px;
+    }
+    body .btn-primary {
+    padding: 10px 10px;
+    }
+}
+@media (max-width: 575px) {
+	.banner-content h1 {
+    font-size: 40px;
+	}
+	.finix-default-text h3 {
+    font-size: 26px;
+   }
+
+   .play-animated {
+    height: 60px;
+    width: 60px;
+    font-size: 52px;
+    line-height: 64px;
+    right: 40%;
+    bottom: 22px;
+   }
+
+   .call-to-action-phn a {
+    font-size: 22px;
+   }
+
+   .call-to-action-phn span {
+    height: 49px;
+    width: 49px;
+   }
+}
+
+
+
+
+@media (max-width: 500px){
+	.about-section .about-image-txt{
+		height: 160px;
+		width: 160px;
+	}
+	.about-section .about-image-txt .about-inner-text h2 {
+    font-size: 45px;
+   }
+   .about-section .about-image-txt .about-inner-text p {
+    font-size: 13px;
+   }
+}
